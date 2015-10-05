@@ -1,0 +1,8 @@
+(a) echo prints out what you give it to the terminal, in this case, "hello world"
+(b) using the curly braces after echo prints each of the contents of the braces (in order) with the rest of the text.
+(c) date will print out the current date and time as well as the time zone
+(d) whoami will print your username
+(e) cal prints a calendar of the year you give it
+(f) cal will print only a single month of the year if you give it a month as well as a year. this specific month seems to be missing almost two weeks
+(g) bc opens a progamming language "basic calculator" which can be used to do math in shell
+(h) piping 5+4 to bc will give bc 5+4 and it will return its value to you, putting echo in front will print it to the terminal
