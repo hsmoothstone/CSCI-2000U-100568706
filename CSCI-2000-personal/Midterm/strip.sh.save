@@ -1,0 +1,13 @@
+#!/bin/bash
+# Hector Robinson 100568706
+# i cannot remember command to remove a line from a filecho "enter k"
+read k
+echo "enter m"
+read m
+echo "enter filename"
+read filename
+head -n -$m $filename > test.txt
+tail -n -$k $filename > test.txt
+
+
+
