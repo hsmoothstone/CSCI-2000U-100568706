@@ -1,3 +1,3 @@
-# csci-2000-class-resources
+# csci-2000-personal
 
-This respository contains class resources for CSCI-2000U course.
+This respository contains contains my resources for the class csci-2000.
